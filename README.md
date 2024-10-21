@@ -6,5 +6,6 @@ This project focuses on designing a user-friendly and visually appealing restaur
 - High-Quality Visuals: Includes appetizing food images and clear descriptions to enhance user engagement.
 - Mobile-Responsive: Optimized for seamless use across mobile devices.
 - Interactive Features: Enables users to customize orders, view nutritional information, and make reservations.
+
 #Tool Used:
 - Miro
