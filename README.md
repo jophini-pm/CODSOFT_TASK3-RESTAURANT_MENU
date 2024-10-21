@@ -9,3 +9,6 @@ This project focuses on designing a user-friendly and visually appealing restaur
 
 #Tool Used:
 - Miro
+
+Linkedin https://www.linkedin.com/posts/jophinipm_codsoft-internship-uiux-activity-7254132116735590400-MWPN?utm_source=share&utm_medium=member_desktop
+RestaurantMenuApp  https://miro.com/app/board/uXjVLQLZdyY=/?share_link_id=511363103201
